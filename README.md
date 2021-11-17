@@ -4,5 +4,5 @@ This repository contains slides and materials related to the RDM lecture pertain
 
 ## relevant links
 
-- [slides]()
+- [slides](https://sos598-rdm.github.io/rdm-lecture-dmp/)
 - [DMPTool](https://libguides.asu.edu/data/start/dmptool)

@@ -1,3 +1,8 @@
 # rdm-lecture-dmp
 
-This repository is a place holder for notes and materials for a future lecture regarding data management plans.
+This repository contains slides and materials related to the RDM lecture pertaining to Data Management Plans
+
+## relevant links
+
+- [slides]()
+- [DMPTool](https://libguides.asu.edu/data/start/dmptool)

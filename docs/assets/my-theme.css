@@ -1,0 +1,117 @@
+/* footnote for slides of class center */
+
+.left-footnote {
+  position: absolute;
+  bottom: 3em;
+  left: 4.5em;
+  padding-right: 4em;
+  font-size: 90%;
+}
+
+/* colors and formatting */
+
+.transparent {
+  color: transparent;
+}
+.light-grey {
+  color: #C8C8C8;
+}
+.light-blue {
+  color: #71A3C3;
+}
+.small {
+  font-size: 85%
+}
+.x-small {
+  font-size: 70%
+}
+
+/* positioning */
+
+.more-left {
+  float: left;
+  width: 55%;
+}
+.less-right {
+  float: right;
+  width: 45%;
+}
+.less-left {
+  float: left;
+  width: 40%;
+}
+.more-right {
+  float: right;
+  width: 60%;
+}
+
+/* code */
+
+code.r{
+  font-size: 14px;
+}
+
+/* title slide */
+
+.title-slide h1 {
+  text-align: left;
+  font-size: 40px;
+}
+.title-slide h3:nth-of-type(1) {
+  text-align: left;
+  font-size: 30px;
+}
+
+/* hygge.css: https://github.com/ekstroem/xaringan/blob/master/inst/rmarkdown/templates/xaringan/resources/hygge.css */
+
+.content-box { 
+    box-sizing: content-box;
+    	background-color: #e2e2e2;
+  /* Total width: 160px + (2 * 20px) + (2 * 8px) = 216px
+     Total height: 80px + (2 * 20px) + (2 * 8px) = 136px
+     Content box width: 160px
+     Content box height: 80px */
+}
+.content-box-blue,
+.content-box-gray,
+.content-box-grey,
+.content-box-army,
+.content-box-green,
+.content-box-purple,
+.content-box-red,
+.content-box-yellow {
+    border-radius: 15px;
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 20px;
+    width: 100%;
+}
+.content-box-blue {
+    background-color: #F0F8FF;
+}
+.content-box-gray {
+    background-color: #e2e2e2;
+}
+.content-box-grey {
+	background-color: #F5F5F5;
+}
+.content-box-army {
+	background-color: #737a36;
+}
+.content-box-green {
+	background-color: #d9edc2;
+}
+.content-box-purple {
+	background-color: #e2e2f9;
+}
+.content-box-red {
+	background-color: #f9dbdb;
+}
+.content-box-yellow {
+	background-color: #fef5c4;
+}
+.full-width {
+    display: flex;
+    width: 100%;
+    flex: 1 1 auto;
+}

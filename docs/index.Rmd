@@ -155,7 +155,7 @@ class: middle, inverse
 
 - NSF
 - NIH
-- USFS
+- USDA
 - Gordon and Betty Moore Foundation
 - Sloan Foundation
 
@@ -185,9 +185,9 @@ class: middle, inverse
 
 **3. define how the data will be organized**
 
-- databases
+- database(s)
+- geodatabase(s)
 - tabular files
-- geodatabase
 
 .footnote[*attribution: W. Michener*]
 
@@ -215,7 +215,7 @@ class: middle, inverse
 
 **5. describe how quality data will be assured**
 
-- Training activities
+- training activities
 - instrument calibration and verification tests
 - double-blind data entry
 - statistical and visualization approaches to error detection
@@ -246,7 +246,7 @@ class: middle, inverse
 
 **7. define the project data policies**
 
-- licensing and data sharing arrangements
+- licensing and data-sharing arrangements
 - human subject and other sensitive data
 
 .footnote[*attribution: W. Michener*]
@@ -261,11 +261,11 @@ class: middle
 
 **8. describe how the data will be disseminated**
 
-More active, robust and preferred approaches include:
+active, robust, and preferred approaches include:
 
 - publishing the data in an open repository or archive
 - submitting the data as appendices or supplements to journal articles
-- publishing the data, metadata, and relevant code as a "data paper"
+- publishing the data, metadata, and relevant code as a data paper
 
 .footnote[*attribution: W. Michener*]
 
@@ -279,7 +279,7 @@ class: middle, inverse
 
 **9. assign roles and responsibilities**
 
-Roles may include:
+roles may include:
 
 - data collection
 - data entry
@@ -317,13 +317,15 @@ Some Michener words of wisdom
 - engage your team
 - plan from the start
 - follow good advice
-  + DataONE
-  + institutional libraries
-  + EDI
+  + [DataONE](https://www.dataone.org/)
+  + institutional libraries (e.g., [ASU library guides](https://libguides.asu.edu/))
+  + [EDI](https://environmentaldatainitiative.org/)
 - use good tools
-  + DMPTool
-  + DMPOnline
+  + [DMPTool](https://dmptool.org/)
+  + [DMPOnline](https://dmponline.dcc.ac.uk/)
 - review and revise
+
+*Remember that this is part of a proposal, and will contribute to the overall evaluation of the proposal.*
 
 .footnote[*attribution: W. Michener*]
 
